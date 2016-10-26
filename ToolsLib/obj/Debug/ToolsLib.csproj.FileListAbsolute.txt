@@ -1,0 +1,9 @@
+F:\ChaloDBConfigurationTool\ToolsLib\obj\Debug\ToolsLib.frmChangeOwner.resources
+F:\ChaloDBConfigurationTool\ToolsLib\obj\Debug\ToolsLib.frmClearTable.resources
+F:\ChaloDBConfigurationTool\ToolsLib\obj\Debug\ToolsLib.csproj.GenerateResource.Cache
+F:\ChaloDBConfigurationTool\ToolsLib\bin\Debug\ToolsLib.dll
+F:\ChaloDBConfigurationTool\ToolsLib\bin\Debug\ToolsLib.pdb
+F:\ChaloDBConfigurationTool\ToolsLib\obj\Debug\ToolsLib.dll
+F:\ChaloDBConfigurationTool\ToolsLib\obj\Debug\ToolsLib.pdb
+F:\ChaloDBConfigurationTool\ToolsLib\bin\Debug\Mono.Security.dll
+F:\ChaloDBConfigurationTool\ToolsLib\bin\Debug\Npgsql.dll

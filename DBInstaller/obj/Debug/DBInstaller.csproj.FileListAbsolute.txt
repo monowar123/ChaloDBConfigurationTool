@@ -1,0 +1,16 @@
+F:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\DBInstaller.dll
+F:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\DBInstaller.pdb
+F:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\Mono.Security.dll
+F:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\Npgsql.dll
+F:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\PasswordCrypto.dll
+F:\ChaloDBConfigurationTool\DBInstaller\obj\Debug\DBInstaller.csprojResolveAssemblyReference.cache
+F:\ChaloDBConfigurationTool\DBInstaller\obj\Debug\DBInstaller.dll
+F:\ChaloDBConfigurationTool\DBInstaller\obj\Debug\DBInstaller.pdb
+E:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\DBInstaller.dll
+E:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\DBInstaller.pdb
+E:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\Mono.Security.dll
+E:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\Npgsql.dll
+E:\ChaloDBConfigurationTool\DBInstaller\bin\Debug\PasswordCrypto.dll
+E:\ChaloDBConfigurationTool\DBInstaller\obj\Debug\DBInstaller.csprojResolveAssemblyReference.cache
+E:\ChaloDBConfigurationTool\DBInstaller\obj\Debug\DBInstaller.dll
+E:\ChaloDBConfigurationTool\DBInstaller\obj\Debug\DBInstaller.pdb
